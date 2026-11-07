@@ -1,0 +1,6 @@
+step,change,public_lb
+raw,public 0.86517 pipeline,0.86515
+t1_2seed_50,2-seed U-Net state 50/50,0.86799
+t1_2seed_60,2-seed U-Net state 60% ours,0.86808
+t1_5seed_60,5-seed U-Net state 60% ours,0.86811
+t4_blend,ODME blend (rejected),0.86781
